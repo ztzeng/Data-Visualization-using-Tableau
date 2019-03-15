@@ -1,5 +1,5 @@
 # Data-Visualization-using-Tableau
-A collection of my sheets and dashboards using Tableau.
+A collection of my visualizations using Tableau.
 
 Datasets available at: https://www.superdatascience.com/pages/tableau
 
@@ -13,7 +13,7 @@ Datasets available at: https://www.superdatascience.com/pages/tableau
 
   
     
-<div align=center><img width="600" height="320" src="https://github.com/ztzeng/Data-Visualization-using-Tableau/blob/master/AreaPlot%2BMultipleBarPlot.png"/></div>.  
+<div align=center><img width="600" heisheetsght="320" src="https://github.com/ztzeng/Data-Visualization-using-Tableau/blob/master/AreaPlot%2BMultipleBarPlot.png"/></div>.  
   
     
       
